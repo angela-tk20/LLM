@@ -1,0 +1,7 @@
+streamlit
+google-cloud-aiplatform
+google-generativeai
+python-dotenv
+cassandra-driver
+langchain-google-genai
+langchain
